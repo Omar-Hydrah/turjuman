@@ -1,0 +1,2 @@
+Main-Class: turjuman.Main
+Class-Path: sqlite.jar
